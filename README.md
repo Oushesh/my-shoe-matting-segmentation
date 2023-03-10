@@ -1,1 +1,8 @@
-# my-shoe-matting-segmentation
+## my-shoe-matting-segmentation
+
+
+## Shoe Data Collection
+
+## Image Segmentation:
+
+## Image 

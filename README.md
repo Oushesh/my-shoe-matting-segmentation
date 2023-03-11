@@ -1,6 +1,7 @@
 ## my-shoe-matting-segmentation
 
-   ![pic_trying_shoes]()
+   ![pic_trying_shoes]("Docs/IMG_063_generated.png")
+   
 
 
 ## Shoe Data Collection
